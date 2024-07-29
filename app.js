@@ -6,3 +6,5 @@ function sum() {
     return a + b;
 }
 sum();
+
+let a = hello;

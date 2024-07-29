@@ -15,3 +15,4 @@ function sum() {
 }
 sum();
 
+let a = hello;

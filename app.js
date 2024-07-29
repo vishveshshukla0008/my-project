@@ -16,3 +16,5 @@ function sum() {
 sum();
 
 let a = hello;
+
+let b = "bye";

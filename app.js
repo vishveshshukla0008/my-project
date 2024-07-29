@@ -18,3 +18,5 @@ sum();
 let a = hello;
 
 let b = "bye";
+
+let c = "see u soon"
